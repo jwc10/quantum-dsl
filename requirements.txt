@@ -1,0 +1,4 @@
+pennylane>=0.30.0
+numpy>=1.20.0
+sympy>=1.10
+matplotlib>=3.5.0
